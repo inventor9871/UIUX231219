@@ -1,3 +1,5 @@
+d = 5
+print(d)
 a=2
 print(a)
 
